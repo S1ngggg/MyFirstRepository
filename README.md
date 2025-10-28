@@ -1,2 +1,2 @@
-# myfirstrep
+# MyFirstRepository
 My Journey Starts Here. 
